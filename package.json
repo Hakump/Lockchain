@@ -1,0 +1,19 @@
+{
+  "name": "lockchainv1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/team-lastlock/cs638-lockchain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/team-lastlock/cs638-lockchain/issues"
+  },
+  "homepage": "https://gitlab.com/team-lastlock/cs638-lockchain#readme"
+}
